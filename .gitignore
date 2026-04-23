@@ -1,0 +1,25 @@
+# ===========================================
+# OS / editor / Windows artifacts
+# ===========================================
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+*:Zone.Identifier
+
+# Office lock files
+~$*
+
+# Backups & temp
+*.bak
+*.backup
+*.tmp
+*.temp
+*~
+
+# ===========================================
+# MoAI / Agency / Claude config directories
+# ===========================================
+.moai/
+.moai-backups/
+.claude/
+.agency/
